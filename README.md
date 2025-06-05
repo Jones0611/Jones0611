@@ -2,17 +2,20 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
+  <br>
+  <em>"Code by day, drum by night 🥁 | Future triathlete 🚴‍♂️ | Brazilian dev ready for global opportunities!"</em>
 </p>
 
-**🚀 Brazilian Software Developer | Open to Global Opportunities**  
-📍 **From Brazil to the World** | 🌱 **Passionate about [Your Focus, e.g.: Cloud, AI, Web3]**  
+**🚀 Junior Full-Stack Developer | Open to Relocation/Remote**  
+📍 **From Brazil to the World** | 🌱 **Passionate about Web Development & Problem Solving**  
 
 ---
 
 ### 🔥 **Why Hire Me?**  
-✅ **5+ years** building scalable apps (adjust as needed)  
-✅ **Multicultural mindset** – Thrive in global teams  
-✅ **Fast learner** | **Problem solver** | **Clean-code advocate**  
+✅ **Self-taught coder** since 2021 – *fell in love with building things*  
+✅ **IT Support background** – *strong troubleshooting skills*  
+✅ **Fast learner** | **Team player** | **Clean-code enthusiast**  
+✅ **Bilingual** (Portuguese native, English [your level: intermediate/advanced])  
 
 ---
 
@@ -21,65 +24,55 @@
 #### **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) *(adjust based on your skills)*
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 
 #### **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
-#### **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-*(Customize badges: [Shields.io](https://shields.io/))*
+#### **Tools & Databases**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
 ### 🌍 **My Journey**  
-
 ```text
-  🇧🇷 Born in Brazil  
-  💻 Fell in love with coding at [Age/Year]  
-  🎓 Graduated in [Your Degree] from [University]  
-  🚀 Built [X] apps, worked at [Y] companies  
-  🌎 Now seeking international roles to grow and impact globally!
+🇧🇷 Born in Brazil  
+💻 Started coding in 2021 (self-taught)  
+🛠️ Worked in IT Support – mastered problem-solving  
+🎓 Graduating in Information Systems (Dec 2024)  
+🌎 Now seeking my FIRST developer role abroad!
 ```
 📌 What I’m Looking For
-Remote or Relocation (Visa sponsorship needed)
+Junior Developer roles (Frontend/Backend/Full-Stack)
 
--Mid/Senior roles in:
+Remote or Relocation (Visa support needed)
 
--Backend Development
+Mentorship opportunities to grow rapidly
 
- -Cloud Engineering
-
- -[Your Target Role]
-
-🏆 Featured Projects
+🏆 Projects & Labs
 Project	Tech Stack	Description
-Project 1	React, Node.js, PostgreSQL	A scalable e-commerce platform
-Project 2	Python, AWS Lambda	Serverless data pipeline
-(Add GIFs/thumbnails by linking images!)
+E-Commerce Demo	React, Node.js	A responsive online store with cart functionality
+IT Support Tool	Python, Flask	Automated ticket classification system
+(Tip: Add screenshots/GIFs of your projects in a /assets folder!)
 
 📬 Let’s Connect!
 LinkedIn
-Twitter
+GitHub
 Email
 
-✨ Fun Facts
-🎸 Play guitar when not coding
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="400"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" width="400"> </p>
+✨ Beyond Code
+🥁 Drummer – Play in a band/local gigs
 
-🌱 Growing my own chili peppers
+🏊‍♂️ Triathlete-in-Training – Swimming + Cycling + Running
 
-🗣️ Speak: Portuguese (native), English (fluent), Spanish (basic)
-
-
----
-
-<p align="center"> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Hire Me"> <br> <strong>Open to work worldwide! Let’s build something amazing. 🚀</strong> </p>
+🌎 Travel Enthusiast – Dream to work while exploring new cultures
 
 ⭐ From Brazil with code and passion!
