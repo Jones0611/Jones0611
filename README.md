@@ -6,7 +6,7 @@
   <em>"Code by day, drum by night 🥁 | Future triathlete 🚴‍♂️ | Brazilian dev ready for global opportunities!"</em>
 </p>
 
-**🚀 Junior Full-Stack Developer | Open to Relocation/Remote**  
+**🚀 Junior Full-Stack Developer | Open to Remote**  
 📍 **From Brazil to the World** | 🌱 **Passionate about Web Development & Problem Solving**  
 
 ---
