@@ -40,7 +40,7 @@
 ---
 
 ### 🌍 **My Journey**  
-```text
+text
 🇧🇷 Born in Brazil  
 💻 Fell in love with coding at [Age/Year]  
 🎓 Graduated in [Your Degree] from [University]  
@@ -75,6 +75,7 @@ Email
 🌱 Growing my own chili peppers
 
 🗣️ Speak: Portuguese (native), English (fluent), Spanish (basic)
+
 
 ---
 
