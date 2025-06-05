@@ -40,12 +40,12 @@
 ---
 
 ### 🌍 **My Journey**  
-text
+```text
 🇧🇷 Born in Brazil  
 💻 Fell in love with coding at [Age/Year]  
 🎓 Graduated in [Your Degree] from [University]  
 🚀 Built [X] apps, worked at [Y] companies  
-🌎 Now seeking international roles to grow and impact globally!
+🌎 Now seeking international roles to grow and impact globally!```
 
 📌 What I’m Looking For
 Remote or Relocation (Visa sponsorship needed)
@@ -82,10 +82,3 @@ Email
 <p align="center"> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Hire Me"> <br> <strong>Open to work worldwide! Let’s build something amazing. 🚀</strong> </p>
 
 ⭐ From Brazil with code and passion!
-
-### 🎨 **How to Customize Further**:
-1. **Add GIFs**: Replace the GIF links with ones matching your vibe (use [Giphy](https://giphy.com/)).  
-2. **Real Stats**: Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for dynamic stats.  
-3. **Personal Branding**: Add a header image (like a banner with "Brazilian Dev for Hire").  
-
-This README is **visually engaging**, **SEO-friendly** (thanks to keywords like "Brazilian developer"), and **professional**. Let me know if you'd like tweaks! 😊
