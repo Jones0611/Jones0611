@@ -76,6 +76,8 @@ Email
 
 🗣️ Speak: Portuguese (native), English (fluent), Spanish (basic)
 
+---
+
 <p align="center"> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Hire Me"> <br> <strong>Open to work worldwide! Let’s build something amazing. 🚀</strong> </p>
 
 ⭐ From Brazil with code and passion!
