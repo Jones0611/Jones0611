@@ -55,24 +55,25 @@ Remote or Relocation (Visa support needed)
 
 Mentorship opportunities to grow rapidly
 
-🏆 Projects & Labs
+## 🏆 **Projects & Labs**
 Project	Tech Stack	Description
 E-Commerce Demo	React, Node.js	A responsive online store with cart functionality
 IT Support Tool	Python, Flask	Automated ticket classification system
 (Tip: Add screenshots/GIFs of your projects in a /assets folder!)
 
-📬 Let’s Connect!
+## 📬 **Let’s Connect!**
 LinkedIn
 GitHub
 Email
 
-📊 GitHub Stats
+## 📊 **GitHub Stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="400"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" width="400"> </p>
-✨ Beyond Code
+
+## **✨ Beyond Code**
 🥁 Drummer – Play in a band/local gigs
 
 🏊‍♂️ Triathlete-in-Training – Swimming + Cycling + Running
 
 🌎 Travel Enthusiast – Dream to work while exploring new cultures
 
-⭐ From Brazil with code and passion!
+## ⭐ From Brazil with code and passion!
