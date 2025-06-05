@@ -41,13 +41,13 @@
 
 ### 🌍 **My Journey**  
 
-  text
+```text
   🇧🇷 Born in Brazil  
   💻 Fell in love with coding at [Age/Year]  
   🎓 Graduated in [Your Degree] from [University]  
   🚀 Built [X] apps, worked at [Y] companies  
   🌎 Now seeking international roles to grow and impact globally!
-
+```
 📌 What I’m Looking For
 Remote or Relocation (Visa sponsorship needed)
 
