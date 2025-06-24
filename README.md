@@ -11,7 +11,7 @@
 **Junior Full-Stack Developer | Open to Remote Opportunities**  
 📍 Brazilian with global mindset | 🌱 Passionate about creating impactful solutions  
 
-- 🎓 Graduating in Information Systems (Expected Dec 2024)
+- 🎓 Graduating in Information Systems (Expected Dec 2025)
 - 💼 Transitioning from IT Support to Development
 - 🌍 Seeking first international developer role (open to relocation)
 - 🥁 Musician & endurance sports enthusiast
