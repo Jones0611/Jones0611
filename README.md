@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
   <br>
-  <em>"Turning coffee into code by day, chasing personal records by morning 🏃‍♂️ | Fitness enthusiast | Brazilian developer with global ambitions!"</em>
+  <em>"Turning coffee into code by day, chasing personal records by morning 🏃‍♂️ | Fitness enthusiast | Brazilian developer mastering Java!"</em>
 </p>
 
 ## 🚀 About Me
 
-**Junior Full-Stack Developer | Open to Remote Opportunities**  
-📍 Brazilian with global mindset | 🌱 Passionate about clean code and healthy living  
+**Junior Java Developer | Open to Remote Opportunities**  
+📍 Brazilian with global mindset | 🌱 Passionate about OOP and system design  
 
 - 🎓 Graduating in Information Systems (Dec 2025)
 - 💼 Transitioning from IT Support to Development
@@ -18,31 +18,32 @@
 
 ## 🔥 Why Work With Me?
 
-✅ **Hybrid Background** - IT support experience + development skills = unique troubleshooting perspective  
+✅ **Java Focus** - Deepening knowledge in Java ecosystem (Spring, Hibernate)  
+✅ **Frontend Foundations** - Practical experience with HTML, CSS, and JavaScript  
 ✅ **Disciplined Self-learner** - Built skills through consistent self-study since 2021  
-✅ **Morning Person** - Daily 5AM runner who brings energy to every project  
-✅ **Bilingual Bridge** - Fluent in Portuguese & English
+✅ **Bilingual Bridge** - Fluent in Portuguese & English (TOEFL 105)  
 
 ## 🛠️ Tech Stack
 
 ### **Core Competencies**
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### **Also Work With**
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ## 🌟 Featured Projects
 
 | Project | Tech Stack | Highlights |
 |---------|------------|-------------|
-| **[E-Commerce Demo](link)** | React, Node.js | Implemented JWT auth & responsive design |
-| **Fitness Tracker** | Python, Flask | Personal project tracking my running metrics |
-| **IT Automation** | Python | Reduced ticket resolution time by 30% |
+| **[Inventory System](link)** | Java, Spring Boot | CRUD with JPA/Hibernate |
+| **E-Commerce Frontend** | HTML, CSS, JS | Responsive design with cart logic |
+| **IT Automation** | Java | Reduced ticket resolution time by 30% |
 
 ## 📈 GitHub Stats
 
@@ -58,16 +59,16 @@
 
 ## 🏆 Daily Discipline
 
-- 🌅 **Morning Routine**: 5AM runs before class (500+ day streak)
-- 📚 **Current Focus**: Mastering React hooks performance
-- 🎯 **2024 Goal**: Half-marathon under 1h50m
+- 🌅 **Morning Routine**: 5AM runs before coding sessions
+- 📚 **Current Focus**: Mastering Spring Framework
+- 🎯 **2024 Goal**: Contribute to open-source Java projects
 
 ## ⚡ Beyond Code
 
 - 🏃‍♂️ **Running**: 35km weekly average
-- 🥁 **Music**: Drumming as creative outlet (10+ years)
-- 🌱 **Growth**: Documenting my coding journey on [Dev.to](link)
+- 📖 **Reading**: Clean Code & Effective Java enthusiast
+- 🌱 **Growth**: Documenting my Java journey on [Dev.to](link)
 
 <p align="center">
-  <em>"Committed to excellence in code and life - one commit and one kilometer at a time!"</em> 🚀
+  <em>"Building robust systems with Java by day, endurance with running by morning!"</em> ☕
 </p>
