@@ -3,25 +3,25 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
   <br>
-  <em>"Turning coffee into code by day, drum rhythms by night 🥁 | Aspiring triathlete 🚴‍♂️ | Brazilian developer with global ambitions!"</em>
+  <em>"Turning coffee into code by day, chasing personal records by morning 🏃‍♂️ | Fitness enthusiast | Brazilian developer with global ambitions!"</em>
 </p>
 
 ## 🚀 About Me
 
 **Junior Full-Stack Developer | Open to Remote Opportunities**  
-📍 Brazilian with global mindset | 🌱 Passionate about creating impactful solutions  
+📍 Brazilian with global mindset | 🌱 Passionate about clean code and healthy living  
 
-- 🎓 Graduating in Information Systems (Expected Dec 2025)
+- 🎓 Graduating in Information Systems (Dec 2025)
 - 💼 Transitioning from IT Support to Development
 - 🌍 Seeking first international developer role (open to relocation)
-- 🥁 Musician & endurance sports enthusiast
+- 🏃‍♂️ Daily runner & fitness enthusiast
 
 ## 🔥 Why Work With Me?
 
-✅ **Hybrid Background** - IT support experience + development skills = unique problem-solving perspective  
-✅ **Self-motivated learner** - Built skills through self-study since 2021  
-✅ **Adaptable team player** - Thrives in collaborative environments  
-✅ **Bilingual communicator** - Fluent in Portuguese & English  
+✅ **Hybrid Background** - IT support experience + development skills = unique troubleshooting perspective  
+✅ **Disciplined Self-learner** - Built skills through consistent self-study since 2021  
+✅ **Morning Person** - Daily 5AM runner who brings energy to every project  
+✅ **Bilingual Bridge** - Fluent in Portuguese & English (TOEFL 105)  
 
 ## 🛠️ Tech Stack
 
@@ -33,20 +33,16 @@
 
 ### **Also Work With**
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## 🌟 Featured Projects
 
-| Project | Tech Stack | Description |
+| Project | Tech Stack | Highlights |
 |---------|------------|-------------|
-| **[E-Commerce Demo](link)** | React, Node.js, MongoDB | Full-featured online store with user auth & payment integration |
-| **IT Support Automation** | Python, Flask | ML-powered ticket classification system (accuracy: 92%) |
-| **Portfolio Website** | Angular, Firebase | Interactive showcase of my work and skills |
-
-*(Tip: Add live demo links and screenshots in your repository!)*
+| **[E-Commerce Demo](link)** | React, Node.js | Implemented JWT auth & responsive design |
+| **Fitness Tracker** | Python, Flask | Personal project tracking my running metrics |
+| **IT Automation** | Python | Reduced ticket resolution time by 30% |
 
 ## 📈 GitHub Stats
 
@@ -59,22 +55,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](your-portfolio)
 
-## 🎯 Currently...
+## 🏆 Daily Discipline
 
-- 🔭 Working on: Improving my React performance optimization skills
-- 🌱 Learning: Advanced Node.js patterns
-- 👯 Looking for: My first professional developer role
-- 💬 Ask me about: Career transition from IT to development
+- 🌅 **Morning Routine**: 5AM runs before class (500+ day streak)
+- 📚 **Current Focus**: Mastering React hooks performance
+- 🎯 **2024 Goal**: Half-marathon under 1h50m
 
-## ⚡ Fun Facts
+## ⚡ Beyond Code
 
-- 🥁 Played drums for 8+ years (band experience)
-- 🏊‍♂️ Training for my first triathlon
-- 🌎 Visited 5 countries (goal: work remotely from 30+)
-- ☕ Can estimate code complexity by coffee consumption
+- 🏃‍♂️ **Running**: 35km weekly average
+- 🥁 **Music**: Drumming as creative outlet (10+ years)
+- 🌱 **Growth**: Documenting my coding journey on [Dev.to](link)
 
 <p align="center">
-  <em>"Ready to bring my passion, skills, and Brazilian energy to your team!"</em> 🇧🇷✨
+  <em>"Committed to excellence in code and life - one commit and one kilometer at a time!"</em> 🚀
 </p>
