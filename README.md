@@ -24,7 +24,7 @@
 #### **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) *(adjust based on your skills)*
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
