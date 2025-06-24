@@ -21,7 +21,7 @@
 ✅ **Hybrid Background** - IT support experience + development skills = unique troubleshooting perspective  
 ✅ **Disciplined Self-learner** - Built skills through consistent self-study since 2021  
 ✅ **Morning Person** - Daily 5AM runner who brings energy to every project  
-✅ **Bilingual Bridge** - Fluent in Portuguese & English /*(TOEFL 105)*/  
+✅ **Bilingual Bridge** - Fluent in Portuguese & English
 
 ## 🛠️ Tech Stack
 
