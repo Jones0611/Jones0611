@@ -1,83 +1,80 @@
-# Hello World! 🌎 I'm João Vitor Rodrigues
+# 👋 Hello World! I'm João Vitor Rodrigues 
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
   <br>
-  <em>"Code by day, drum by night 🥁 | Future triathlete 🚴‍♂️ | Brazilian dev ready for global opportunities!"</em>
+  <em>"Turning coffee into code by day, drum rhythms by night 🥁 | Aspiring triathlete 🚴‍♂️ | Brazilian developer with global ambitions!"</em>
 </p>
 
-**🚀 Junior Full-Stack Developer | Open to Remote**  
-📍 **From Brazil to the World** | 🌱 **Passionate about Web Development & Problem Solving**  
+## 🚀 About Me
 
----
+**Junior Full-Stack Developer | Open to Remote Opportunities**  
+📍 Brazilian with global mindset | 🌱 Passionate about creating impactful solutions  
 
-### 🔥 **Why Hire Me?**  
-✅ **Self-taught coder** since 2021 – *fell in love with building things*  
-✅ **IT Support background** – *strong troubleshooting skills*  
-✅ **Fast learner** | **Team player** | **Clean-code enthusiast**  
-✅ **Bilingual** (Portuguese native, English advanced)  
+- 🎓 Graduating in Information Systems (Expected Dec 2024)
+- 💼 Transitioning from IT Support to Development
+- 🌍 Seeking first international developer role (open to relocation)
+- 🥁 Musician & endurance sports enthusiast
 
----
+## 🔥 Why Work With Me?
 
-### 🛠️ **Tech Stack**  
+✅ **Hybrid Background** - IT support experience + development skills = unique problem-solving perspective  
+✅ **Self-motivated learner** - Built skills through self-study since 2021  
+✅ **Adaptable team player** - Thrives in collaborative environments  
+✅ **Bilingual communicator** - Fluent in Portuguese & English  
 
-#### **Languages**
+## 🛠️ Tech Stack
+
+### **Core Competencies**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### **Also Work With**
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-
-#### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-
-#### **Tools & Databases**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
----
+## 🌟 Featured Projects
 
-### 🌍 **My Journey**  
-```text
-🇧🇷 Born in Brazil  
-💻 Started coding in 2021 (self-taught)  
-🛠️ Worked in IT Support – mastered problem-solving  
-🎓 Graduating in Information Systems (Dec 2024)  
-🌎 Now seeking my FIRST developer role abroad!
-```
-📌 What I’m Looking For
-Junior Developer roles (Frontend/Backend/Full-Stack)
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[E-Commerce Demo](link)** | React, Node.js, MongoDB | Full-featured online store with user auth & payment integration |
+| **IT Support Automation** | Python, Flask | ML-powered ticket classification system (accuracy: 92%) |
+| **Portfolio Website** | Angular, Firebase | Interactive showcase of my work and skills |
 
-Remote or Relocation (Visa support needed)
+*(Tip: Add live demo links and screenshots in your repository!)*
 
-Mentorship opportunities to grow rapidly
+## 📈 GitHub Stats
 
-## 🏆 **Projects & Labs**
-Project	Tech Stack	Description
-E-Commerce Demo	React, Node.js	A responsive online store with cart functionality
-IT Support Tool	Python, Flask	Automated ticket classification system
-(Tip: Add screenshots/GIFs of your projects in a /assets folder!)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jones0611&show_icons=true&theme=radical&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jones0611&theme=dark&hide_border=true" width="400">
+</p>
 
-## 📬 **Let’s Connect!**
-LinkedIn
-GitHub
-Email
+## 📬 Let's Connect!
 
-## 📊 **GitHub Stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jones0611&show_icons=true&theme=radical&hide_border=true" width="400"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Jones0611&theme=dark&hide_border=true" width="400"> </p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](your-portfolio)
 
-## **✨ Beyond Code**
-🥁 Drummer – Passionate about drums
+## 🎯 Currently...
 
-🏊‍♂️ Triathlete-in-Training – Swimming + Cycling + Running
+- 🔭 Working on: Improving my React performance optimization skills
+- 🌱 Learning: Advanced Node.js patterns
+- 👯 Looking for: My first professional developer role
+- 💬 Ask me about: Career transition from IT to development
 
-🌎 Travel Enthusiast – Dream to work while exploring new cultures
+## ⚡ Fun Facts
 
-## ⭐ From Brazil with code and passion!
+- 🥁 Played drums for 8+ years (band experience)
+- 🏊‍♂️ Training for my first triathlon
+- 🌎 Visited 5 countries (goal: work remotely from 30+)
+- ☕ Can estimate code complexity by coffee consumption
+
+<p align="center">
+  <em>"Ready to bring my passion, skills, and Brazilian energy to your team!"</em> 🇧🇷✨
+</p>
