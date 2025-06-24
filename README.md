@@ -15,7 +15,7 @@
 ✅ **Self-taught coder** since 2021 – *fell in love with building things*  
 ✅ **IT Support background** – *strong troubleshooting skills*  
 ✅ **Fast learner** | **Team player** | **Clean-code enthusiast**  
-✅ **Bilingual** (Portuguese native, English [your level: intermediate/advanced])  
+✅ **Bilingual** (Portuguese native, English advanced)  
 
 ---
 
