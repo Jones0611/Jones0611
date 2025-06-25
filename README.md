@@ -68,7 +68,7 @@
 
 ## 🌐 Connect with Me
 
-**Currently open for international job opportunities (relocation or remote)**  
+**Currently open for job opportunities (relocation or remote)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jones0611/)
