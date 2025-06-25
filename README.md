@@ -79,7 +79,7 @@ I’m currently recording **programming tutorials and software development lesso
 
 ## 🌐 Let’s Connect!
 
-**Open for international job opportunities (Europe, USA, Switzerland — relocation or remote)**  
+**Open for international job opportunities (relocation or remote)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jones0611/)
