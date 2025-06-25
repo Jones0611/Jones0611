@@ -3,28 +3,31 @@
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Java Developer">
   <br>
-  <em>"Building scalable Java solutions ☕ | Chasing PRs at dawn 🏃‍♂️ | Fueling global tech with Brazilian energy"</em>
+  <em>"Crafting scalable Java solutions ☕ | Producing dev content 🎥 | Running towards global tech opportunities 🏃‍♂️"</em>
 </p>
 
 ## 🚀 About Me
 
-**Aspiring Java Backend Engineer actively seeking international opportunities**  
-📍 Based in Brazil | 🌱 Spring Ecosystem Enthusiast  
+**Java Backend Developer in training, content creator, and international job seeker**  
+📍 Based in Brazil | 🌍 Actively seeking opportunities in **Europe, USA, or Switzerland**  
 
-- 🎓 Final-year Information Systems student (Class of 2025)
-- 💻 2+ years of career transition from IT Support to Software Development
-- 🌍 Currently looking for job opportunities abroad *(Visa sponsorship available)*
+- 🎓 Final-year Information Systems student (Graduating 2025)
+- 💻 2+ years of career transition from IT Support to Java Development  
+- 🎥 Currently recording **Java tutorials and backend development video lessons** for my future educational platform  
+- 🏅 Preparing for **Oracle Certified Java Programmer (OCP)** and **Spring Professional Certification**  
+- 🌍 Focused on relocating or working remotely for global companies *(Visa sponsorship available)*  
 - 🏃‍♂️ 500+ consecutive coding days (and running streak!)
 
 ---
 
-## 💡 What Sets Me Apart
+## 💡 What Makes Me Stand Out
 
-✅ **Backend Focus** – Strong expertise in Java, Spring Boot, and microservices  
-✅ **Full-Stack Awareness** – Proficient in HTML, CSS, and JS for collaborative development  
-✅ **Continuous Learner** – 150+ hours of Java-specialized courses in 2024  
-✅ **Athlete’s Mindset** – Applying sports discipline to clean, performant code  
-✅ **Bilingual** – Fluent in Portuguese and English  
+✅ **Backend Specialist** – Proficient in Java, Spring Boot, Hibernate, and microservices  
+✅ **Full-Stack Knowledge** – HTML, CSS, and JS for collaborative product delivery  
+✅ **Content Creator** – Sharing programming knowledge through upcoming online courses  
+✅ **Continuous Learner** – 150+ hours of Java-focused training in 2024  
+✅ **Athlete’s Discipline** – Applying sports discipline to clean, high-performance code  
+✅ **Fluent in Portuguese and English**
 
 ---
 
@@ -54,6 +57,13 @@
 | **[Supply Chain Management](https://github.com/Jones0611)** | Spring Boot, Hibernate | Reduced processing time by 40%     |
 | **Fitness Tracker API**     | Java 17, Spring Security | JWT authentication implementation  |
 | **Support Ticket Automation** | Java, Selenium         | Decreased ticket resolution by 35% |
+| **[Online Course Platform (WIP)](https://github.com/Jones0611)** | Java, Spring, Thymeleaf | Educational platform in development |
+
+---
+
+## 🎥 Video Lessons in Progress
+
+I’m currently recording **Java backend tutorials** and **software development lessons** for my future educational platform — helping beginners and junior developers learn enterprise-grade Java technologies.
 
 ---
 
@@ -66,9 +76,9 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let’s Connect!
 
-**Currently open for job opportunities (relocation or remote)**  
+**Open for international job opportunities (Europe, USA, Switzerland — relocation or remote)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jones0611/)
@@ -79,14 +89,14 @@
 ## 🎯 2024 Goals
 
 ### Technical
-- 📜 Earn Spring Professional Certification  
-- 🤝 Contribute to Apache Commons  
-- ⚙️ Build a microservices POC with Kubernetes  
+- 📜 Earn Oracle Java and Spring Professional Certifications  
+- 🤝 Contribute to open-source projects (Apache Commons, Spring community)  
+- ⚙️ Deploy a microservices POC with Kubernetes  
 
 ### Personal
-- 🏃 Complete first marathon (Sub 4h target)  
+- 🏃 Complete first marathon (Sub 4h goal)  
 - 👨‍🏫 Mentor 5 new Java developers  
-- ✍️ Publish 12 technical articles  
+- ✍️ Publish 12 technical articles and video lessons  
 
 ---
 
@@ -98,7 +108,7 @@
 
 ---
 
-✨ **Fun Fact**: My best bug fixes often come around kilometer 5 of a morning run.  
+✨ **Fun Fact**: My best code optimizations usually come around kilometer 5 of a morning run.  
 
 </br>
 
@@ -107,3 +117,4 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJones0611&label=PROFILE%20VIEWS&countColor=%23263759" />
   </a>
 </p>
+
