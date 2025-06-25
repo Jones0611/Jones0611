@@ -9,14 +9,15 @@
 ## 🚀 About Me
 
 **Java Backend Developer in training, content creator, and international job seeker**  
-📍 Based in Brazil | 🌍 Actively seeking opportunities in **Europe, USA, or Switzerland**  
+📍 Based in Brazil | 🌍 Actively seeking opportunities in **Europe, USA, or Switzerland**
 
 - 🎓 Final-year Information Systems student (Graduating 2025)
-- 💻 2+ years of career transition from IT Support to Java Development  
-- 🎥 Currently recording **Java tutorials and backend development video lessons** for my future educational platform  
-- 🏅 Preparing for **Oracle Certified Java Programmer (OCP)** and **Spring Professional Certification**  
-- 🌍 Focused on relocating or working remotely for global companies *(Visa sponsorship available)*  
+- 💻 Transitioning from IT Support to Java Development — **currently seeking my first job as a programmer**
+- 🎥 Recording **programming tutorials and general development lessons** for my future educational platform, covering not only Java but the broader programming world
+- 🏅 Preparing for **Oracle Certified Java Programmer (OCP)** and **Spring Professional Certification**
+- 🌍 Focused on relocating or working remotely for global companies *(Visa sponsorship available)*
 - 🏃‍♂️ 500+ consecutive coding days (and running streak!)
+- 🏊🚴‍♂️🏃 Recently started training for triathlon — and aiming someday to complete an **IRONMAN**
 
 ---
 
@@ -63,7 +64,7 @@
 
 ## 🎥 Video Lessons in Progress
 
-I’m currently recording **Java backend tutorials** and **software development lessons** for my future educational platform — helping beginners and junior developers learn enterprise-grade Java technologies.
+I’m currently recording **programming tutorials and software development lessons** for my future educational platform — covering **Java backend and general programming topics** to help beginners and junior developers learn modern development practices.
 
 ---
 
@@ -97,6 +98,7 @@ I’m currently recording **Java backend tutorials** and **software development 
 - 🏃 Complete first marathon (Sub 4h goal)  
 - 👨‍🏫 Mentor 5 new Java developers  
 - ✍️ Publish 12 technical articles and video lessons  
+- 🏊🚴‍♂️🏃 Iniciar preparação oficial para o meu primeiro **triathlon sprint** rumo a um dia completar um **IRONMAN**
 
 ---
 
@@ -108,7 +110,7 @@ I’m currently recording **Java backend tutorials** and **software development 
 
 ---
 
-✨ **Fun Fact**: My best code optimizations usually come around kilometer 5 of a morning run.  
+✨ **Fun Fact**: My best code optimizations usually come around kilometer 5 of a morning run.
 
 </br>
 
@@ -117,4 +119,3 @@ I’m currently recording **Java backend tutorials** and **software development 
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJones0611&label=PROFILE%20VIEWS&countColor=%23263759" />
   </a>
 </p>
-
