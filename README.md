@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-**Aspiring Java Backend Engineer**  
-📍 Brazil-based | 🌱 Spring Ecosystem Enthusiast  
+**Aspiring Java Backend Engineer actively seeking international opportunities**  
+📍 Based in Brazil | 🌱 Spring Ecosystem Enthusiast  
 
 - 🎓 Final-year Information Systems student (Class of 2025)
 - 💻 2+ years of career transition from IT Support to Software Development
-- 🌍 Open to international roles (Visa sponsorship ready)
+- 🌍 Currently looking for job opportunities abroad *(Visa sponsorship available)*
 - 🏃‍♂️ 500+ consecutive coding days (and running streak!)
 
 ---
@@ -67,6 +67,8 @@
 ---
 
 ## 🌐 Connect with Me
+
+**Currently open for international job opportunities (relocation or remote)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jones0611/)
