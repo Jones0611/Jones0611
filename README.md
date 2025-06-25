@@ -95,10 +95,11 @@ I’m currently recording **programming tutorials and software development lesso
 - ⚙️ Deploy a microservices POC with Kubernetes  
 
 ### Personal
-- 🏃 Complete first marathon (Sub 4h goal)  
+- 🏃 Complete my first marathon (Sub 4h goal)  
 - 👨‍🏫 Mentor 5 new Java developers  
 - ✍️ Publish 12 technical articles and video lessons  
-- 🏊🚴‍♂️🏃 Iniciar preparação oficial para o meu primeiro **triathlon sprint** rumo a um dia completar um **IRONMAN**
+- 🏊🚴‍♂️🏃 Officially start training for my first **Sprint Triathlon**, aiming one day to finish an **IRONMAN**
+
 
 ---
 
