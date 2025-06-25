@@ -20,7 +20,7 @@
 
 ✅ **Java Specialist** - Deep focus on Spring Boot, Hibernate, and microservices architecture  
 ✅ **Full-Stack Awareness** - Frontend fundamentals (HTML/CSS/JS) for better collaboration  
-✅ **Relentless Learner** - 300+ hours of specialized Java courses in 2024 alone  
+✅ **Relentless Learner** - 150+ hours of specialized Java courses in 2024 alone  
 ✅ **Performance Mindset** - Apply athletic discipline to code optimization  
 
 ## 🛠️ Technical Arsenal
