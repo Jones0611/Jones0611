@@ -11,7 +11,7 @@
 I’m a passionate Java Backend Developer in training, content creator, and aspiring professional looking for my **first programming job**. Based in Brazil, I’m actively seeking opportunities in **Europe, USA, or Switzerland**, whether remote or with relocation support.
 
 - 🎓 Final-year Information Systems student (graduating 2025)  
-- 💻 Transitioning from IT Support to Java Development — eager to start my professional journey as a programmer  
+- 💻 Transitioning from IT Support to Development — eager to start my professional journey as a programmer  
 - 🎥 Producing **programming tutorials and general software development lessons** aimed at beginners and junior devs  
 - 🏅 Preparing for **Oracle Certified Java Programmer (OCP)** and **Spring Professional** certifications  
 - 🏃‍♂️ Applying discipline from over 500 consecutive coding days and running streak  
