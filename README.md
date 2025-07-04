@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate Java Backend Developer in training and aspiring professional looking for my **first programming job**. Based in Brazil, I’m actively seeking opportunities in **Europe, USA, or Switzerland**, whether remote or with relocation support.
+I’m a passionate Developer in training and aspiring professional looking for my **first programming job**. Based in Brazil, I’m actively seeking opportunities in **Europe, USA, or Switzerland**, whether remote or with relocation support.
 
 - 🎓 Final-year Information Systems student (graduating 2025)  
 - 💻 Transitioning from IT Support to Development — eager to start my professional journey as a programmer  
@@ -20,7 +20,7 @@ I’m a passionate Java Backend Developer in training and aspiring professional 
 
 ## 💡 What I Bring to the Table
 
-- Proficient in Java, Spring Boot, Hibernate, and RESTful APIs  
+- Proficient in Java, Spring Boot, Python and MySQL  
 - Knowledgeable in frontend technologies: HTML, CSS, JavaScript  
 - Experienced with Git and Docker for version control and containerization  
 - Strong commitment to continuous learning and professional growth  
