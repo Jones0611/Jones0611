@@ -1,20 +1,20 @@
 # 👋 Hi, I'm João Vitor Rodrigues
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Developer">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Java Developer">
   <br>
-  <em>"Building scalable software solutions | Pursuing global tech opportunities 🏃‍♂️"</em>
+  <em>"Building scalable Java solutions ☕ | Pursuing global tech opportunities 🏃‍♂️"</em>
 </p>
 
 ## 🚀 About Me
 
-I’m a passionate **Backend Developer in training** and aspiring professional looking for my **first programming job**. Based in Brazil, I’m actively seeking opportunities in **Europe, USA, or Switzerland**, whether remote or with relocation support.
+I’m a passionate Java Backend Developer in training and aspiring professional looking for my **first programming job**. Based in Brazil, I’m actively seeking opportunities in **Europe, USA, or Switzerland**, whether remote or with relocation support.
 
 - 🎓 Final-year Information Systems student (graduating 2025)  
 - 💻 Transitioning from IT Support to Development — eager to start my professional journey as a programmer  
 - 🏅 Preparing for **Oracle Certified Java Programmer (OCP)** and **Spring Professional** certifications  
-- 🏃‍♂️ Applying discipline from over 500 consecutive coding days and a running streak  
-- 🏊🚴‍♂️🏃 Training for triathlon with the dream of completing an **IRONMAN**
+- 🏃‍♂️ Applying discipline from over 500 consecutive coding days and running streak  
+- 🏊🚴‍♂️🏃 Starting training for triathlon with the dream of one day completing an **IRONMAN**
 
 ---
 
@@ -33,11 +33,16 @@ I’m a passionate **Backend Developer in training** and aspiring professional l
 
 ### Backend  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frontend  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### DevOps  
@@ -55,7 +60,7 @@ I am working on several projects to build experience and showcase my skills, inc
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 - Obtain Oracle Java and Spring Professional certifications  
 - Contribute to open-source projects  
@@ -71,8 +76,7 @@ I am working on several projects to build experience and showcase my skills, inc
 I’m open to international job opportunities (remote or relocation) in Europe, the USA, and Switzerland.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-rodrigues-6b5333231)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jones0611/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovr724@gmail.com)  
 
 ---
 
