@@ -13,7 +13,7 @@ I’m a passionate **Backend Developer in training** and aspiring professional l
 - 🎓 Final-year Information Systems student (graduating 2025)  
 - 💻 Transitioning from IT Support to Development — eager to start my professional journey in software development  
 - 🏅 Preparing for certifications and expanding my knowledge across multiple programming languages and frameworks  
-- 🏃‍♂️ Applying discipline from over 500 consecutive coding days and a running streak  
+- 🏃‍♂️ Applying discipline from over 100 consecutive coding days and a running streak  
 - 🏊🚴‍♂️🏃 Training for triathlon with the dream of completing an **IRONMAN**
 
 ---
