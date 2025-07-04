@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Java Developer">
   <br>
-  <em>"Building scalable Java solutions ☕ | Pursuing global tech opportunities 🏃‍♂️"</em>
+  <em>"Building scalable software solutions | Pursuing global tech opportunities 🏃‍♂️"</em>
 </p>
 
 ## 🚀 About Me
